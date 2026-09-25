@@ -15,7 +15,7 @@ export default function Navbar() {
         {/* Left: Logo */}
         <Link
           href="/"
-          className="flex items-center gap-2 font-display font-bold text-xl tracking-wider text-white"
+          className="flex items-center gap-2 font-display font-bold text-xl tracking-wider "
         >
           {/* Modern Next.js img tag ba regular img tag */}
           <img
